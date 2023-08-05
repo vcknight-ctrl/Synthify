@@ -58,5 +58,5 @@ The `model.pkl` file contains the trained Random Forest model, which is the back
 
 ## Contributing
 
-We welcome contributions to Synthify! If you find any bugs or have ideas for new features, please open an issue or submit a pull request. Your input is invaluable to the growth of this project.
+If you find any bugs or have ideas for new features, please open an issue or submit a pull request. Your input is invaluable to the growth of this project.
 
